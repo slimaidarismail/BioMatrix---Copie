@@ -415,5 +415,10 @@ namespace BioMetrixCore
                 MessageBox.Show(" enter a valid integer ");
             }
         }
+
+        private void tbxDeviceIP_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
