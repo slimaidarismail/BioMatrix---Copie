@@ -1,0 +1,13 @@
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\Mourad\Desktop\New folder\pointeuse\sdkpointeuse\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
